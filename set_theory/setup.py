@@ -7,7 +7,7 @@ setup(
     author_email = 'device.mxl@gmail.com',
     license = 'CC BY-NC-SA 4.0'
     url = 'https://github.com/devicemxl/Maths-Bytes/set_theory/',
-    download_url = 'https://github.com/devicemxl/Maths-Bytes/set_theory/archive/0.0.1.tar.gz',
+    download_url = 'https://github.com/devicemxl/Maths-Bytes/set_theory/SetTheory/archive/0.0.1.tar.gz',
     keywords = ['set theory', 'set'],
     classifiers = [ # Get strings from http://pypi.python.org/pypi?%3Aaction=list_classifiers
         'Development Status :: 3 - Alpha',
