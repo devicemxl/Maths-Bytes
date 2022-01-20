@@ -1,4 +1,3 @@
-
 # Set Theory: Cartesian Product Routine
 def CartesianProduct(a,b,c):
     for C in range(len(b)):
