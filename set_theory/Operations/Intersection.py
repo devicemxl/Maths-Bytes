@@ -1,5 +1,4 @@
 from matplotlib import pyplot as plt
-import numpy as np
 from matplotlib_venn import venn3, venn3_circles
 # 
 P = set(['A', 'B', 'C', 'D',])
