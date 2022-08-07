@@ -1,3 +1,3 @@
 # Maths & Bytes
-Maths & Bytes - An Elementary Maths Workbook in Python and Javascript
+Maths & Bytes - My Elementary Maths Workbook in Python and SQL
 <br><br><br><br>
