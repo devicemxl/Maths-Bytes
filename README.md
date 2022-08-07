@@ -1,8 +1,8 @@
 # Maths & Bytes
-Maths & Bytes - My Elementary Maths Workbook
+Maths & Bytes - Mi libro de estudios basicos en matematcas
 <br><br><br><br>
 
-inspired in great lists like:
+Inspirado en grandes listas como:
 
  - [Jim's Topics](https://www.cs.utah.edu/~germain/PPS/Topics/index.html)
  - [Fall 2015 6.005: Software](http://web.mit.edu/6.005/www/fa15/)
