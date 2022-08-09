@@ -1,8 +1,7 @@
-# Maths & Bytes
-Maths & Bytes - Mi libro de estudios basicos en matematcas
+# Maths & Bytes:  My small workbench #
 <br><br><br><br>
 
-Inspirado en grandes listas como:
+Inspired by great works like:
 
  - [Jim's Topics](https://www.cs.utah.edu/~germain/PPS/Topics/index.html)
  - [Fall 2015 6.005: Software](http://web.mit.edu/6.005/www/fa15/)
