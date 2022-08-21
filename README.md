@@ -1,6 +1,12 @@
 # Maths & Bytes:  My small workbench #
-<br><br><br><br>
+<br>
 
+index:
+
+ - Set Theory
+ - Statistics
+
+<br><br><br><br>
 Inspired by great works like:
 
  - [Jim's Topics](https://www.cs.utah.edu/~germain/PPS/Topics/index.html)
