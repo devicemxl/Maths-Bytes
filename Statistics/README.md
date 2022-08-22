@@ -1,20 +1,20 @@
 Yet another stats guide
 
-This repositoy follow the path of the book "Applying Statistics" by Dan Lurie, Lee Abramson and James Vail.
+This repositoy follow the path of the book ["Applying Statistics" by Dan Lurie, Lee Abramson and James Vail](https://www.nrc.gov/docs/ML1110/ML11102A076.pdf).
 
-Explore:
+Topics:
 
- - Fundamental Concepts
- - Basic Continuous and Discrete Distributions
- - Estimation And Inference
- - Methods For Examining Data
- - Test Statistical Hypotheses About Data Structure
- - Intro To Bayesian Methodology
- - Discrete Distributions–Hypergeometric, Binomial, And Poisson
- - Intro To Quality Control and Quality Assurance
- - Nonparametric Tests
- - Deal With Outlying Observations
- - Simulation
+ - 0 Fundamental Concepts
+ - 1 Basic Continuous and Discrete Distributions
+ - 2 Estimation And Inference
+ - 3 Methods For Examining Data
+ - 4 Test Statistical Hypotheses About Data Structure
+ - 5 Intro To Bayesian Methodology
+ - 6 Discrete Distributions–Hypergeometric, Binomial, And Poisson
+ - 7 Intro To Quality Control and Quality Assurance
+ - 8 Nonparametric Tests
+ - 9 Deal With Outlying Observations
+ - 10 Simulation
 
 
 <br><br><br>
