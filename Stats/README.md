@@ -1,4 +1,4 @@
-Yet another stats guide
+# Yet another stats guide
 
 This repositoy follow the path of the book ["Applying Statistics" by Dan Lurie, Lee Abramson and James Vail](https://www.nrc.gov/).
 
