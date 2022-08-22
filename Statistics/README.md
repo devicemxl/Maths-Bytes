@@ -1,6 +1,6 @@
 Yet another stats guide
 
-This repositoy follow the path of the book ["Applying Statistics" by Dan Lurie, Lee Abramson and James Vail](https://www.nrc.gov/docs/ML1110/ML11102A076.pdf).
+This repositoy follow the path of the book ["Applying Statistics" by Dan Lurie, Lee Abramson and James Vail](https://www.nrc.gov/).
 
 Topics:
 
@@ -21,7 +21,7 @@ Topics:
 
 Notes:
 
- - The book have a Date of publication: March 2011; it was recovered at summer of 2022 in the public library of the The U.S. Nuclear Regulatory Commission at https://www.nrc.gov/docs/ML1110/ML11102A076.pdf
+ - The book have a Date of publication: March 2011; it was recovered at summer of 2022 in the public library of the The U.S. Nuclear Regulatory Commission at https://www.nrc.gov/docs/...
 
  - I develop the "translation" to python because the text is already in the public domain, and i think it fits the following rule:
     *The Freedom of Information Act (5 USC 552) was enacted in 1966. FOIA provides that any person has a right to obtain access to federal agency records, except to the extent that such records (or portions of them) are protected from public disclosure by one of nine FOIA exemptions or by one of three special law enforcement record exclusions. This right is enforceable in court.*
