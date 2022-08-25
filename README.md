@@ -11,7 +11,7 @@ Topics by Section:
 ## Geometry and a little bit more
 **Elementary Math Applications**
 
- - Arithmetic
+ - Arithmetic <sup>[050]()</sup>
     - Reading list: [National Arithmetic](https://books.google.com.mx/books?id=uah1l-Mu0KQC&printsec=frontcover&dq=Benjamin+Greenleaf&hl=es&sa=X&ved=2ahUKEwjfyt-oy9n5AhVekGoFHYSWD_oQ6AF6BAgFEAI#v=onepage&q=Benjamin%20Greenleaf&f=false)
     
 <br><br><br><br>
