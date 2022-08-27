@@ -3,8 +3,8 @@
 This is my little workbench through code to tell a stoy of data, and this the index:
 
  - [Geometry and a little bit more](https://github.com/devicemxl/Maths-Bytes#geometry-and-a-little-bit-more)
- - Basic Algebra
- - A little Intro in the Statistics
+ - [Basic Algebra](https://github.com/devicemxl/Maths-Bytes/blob/raiz/README.md#basic-algebra)
+ - [A little Intro in the Statistics](https://github.com/devicemxl/Maths-Bytes/edit/raiz/README.md#a-little-intro-in-the-statistics)
 
 Topics by Section:
 
